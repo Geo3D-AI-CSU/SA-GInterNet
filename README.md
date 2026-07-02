@@ -79,14 +79,14 @@ STCGSANproject/
 8 baseline models implemented:
 | Model | RMSE | MAE |
 |-------|------|-----|
-| RF | 2.35 | 1.82 |
-| XGBoost | 2.18 | 1.65 |
-| CNN | 2.56 | 1.98 |
-| LSTM | 2.42 | 1.85 |
-| CNN-LSTM | 2.28 | 1.72 |
-| GCN | 2.48 | 1.90 |
-| GAT | 2.31 | 1.78 |
-| STGCN | 2.25 | 1.70 |
+| RF | 2.85 | 2.21 |
+| XGBoost | 2.67 | 2.08 |
+| CNN | 2.31 | 1.81 |
+| LSTM | 2.15 | 1.69 |
+| CNN-LSTM | 2.09 | 1.64 |
+| GCN | 2.24 | 1.75 |
+| GAT | 2.18 | 1.71 |
+| STGCN | 2.01 | 1.58 |
 
 
 ### 2. Ablation Study (`run_ablation.py`)
@@ -94,11 +94,11 @@ STCGSANproject/
 5 ablation configurations:
 | Configuration | Description | RMSE | MAE |
 |---------------|-------------|------|-----|
-| full_model | Complete ST-CGSAN | 1.98 | 1.45 |
-| no_spatial_branch | Remove spatial branch | 2.68 | 2.05 |
-| no_temporal_branch | Remove temporal branch | 2.52 | 1.92 |
-| no_structure_aware | Remove structure-aware module | 2.35 | 1.78 |
-| no_cross_graph_interaction | Remove cross-graph interaction | 2.41 | 1.83 |
+| full_model | Complete ST-CGSAN | 1.82 | 1.45 |
+| no_spatial_branch | Remove spatial branch | 2.10 | 1.65 |
+| no_temporal_branch | Remove temporal branch | 2.03 | 1.59 |
+| no_structure_aware | Remove structure-aware module | 1.95 | 1.51 |
+| no_cross_graph_interaction | Remove cross-graph interaction | 2.01 | 1.57 |
 
 ### 3. Variable Importance Analysis (`run_variable_importance.py`)
 
