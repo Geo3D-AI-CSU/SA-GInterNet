@@ -21,7 +21,7 @@ SA-GInterNetproject/
 │   ├── processed/           # Preprocessed CSV data (48 files, 2017-2020)
 │   └── Graph/               # Graph construction outputs (48 spatial graphs)
 ├── src/                     # Source code
-│   ├── models/              # ST-CGSAN model implementation
+│   ├── models/              # SA-GInterNet model implementation
 │   ├── baselines/           # Baseline models
 │   ├── experiments/         # Experiment runners
 │   ├── graph_construction/  # Graph construction utilities
