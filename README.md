@@ -5,7 +5,7 @@ Official Python implementation of SA-GInterNet
 
 ## Overview
 
-ST-CGSAN is a novel spatio-temporal graph neural network designed for atmospheric CO₂ concentration prediction. The model integrates two key branches:
+SA-GInterNet is a novel spatio-temporal graph neural network designed for atmospheric CO₂ concentration prediction. The model integrates two key branches:
 
 1. **Structure-Aware Spatial Modeling Branch**
 2. **Cross-Graph Interaction Temporal Modeling Branch**
