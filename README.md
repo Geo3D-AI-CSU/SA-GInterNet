@@ -10,7 +10,7 @@ SA-GInterNet is a novel spatio-temporal graph neural network designed for atmosp
 1. **Structure-Aware Spatial Modeling Branch**
 2. **Cross-Graph Interaction Temporal Modeling Branch**
 
-This repository contains the complete implementation of the ST-CGSAN model along with baseline experiments, ablation studies, and variable importance analysis.
+This repository contains the complete implementation of the SA-GInterNet model along with baseline experiments, ablation studies, and variable importance analysis.
 
 ## Project Structure
 
