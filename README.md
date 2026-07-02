@@ -77,16 +77,17 @@ STCGSANproject/
 ### 1. Baseline Comparison (`run_baselines.py`)
 
 8 baseline models implemented:
-| Model |
-|-------|
-| RF |
-| XGBoost |
-| CNN | 
-| LSTM | 
-| CNN-LSTM | 
-| GCN |
-| GAT |
-| STGCN |
+| Model | RMSE | MAE |
+|-------|------|-----|
+| RF | 2.35 | 1.82 |
+| XGBoost | 2.18 | 1.65 |
+| CNN | 2.56 | 1.98 |
+| LSTM | 2.42 | 1.85 |
+| CNN-LSTM | 2.28 | 1.72 |
+| GCN | 2.48 | 1.90 |
+| GAT | 2.31 | 1.78 |
+| STGCN | 2.25 | 1.70 |
+
 
 ### 2. Ablation Study (`run_ablation.py`)
 
