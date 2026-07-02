@@ -1,4 +1,4 @@
-# SA-GInterNet[![DOI](https://zenodo.org/badge/1286980455.svg)](https://doi.org/10.5281/zenodo.21132133)
+# SA-GInterNet
 # ST-CGSAN: Spatio-Temporal Cross-Graph Spatial Attention Network
 
 ## Overview
