@@ -15,7 +15,7 @@ This repository contains the complete implementation of the SA-GInterNet model a
 ## Project Structure
 
 ```
-STCGSANproject/
+SA-GInterNetproject/
 ├── data/                    # Data directory
 │   ├── raw/                 # Raw data (satellite/covariates)
 │   ├── processed/           # Preprocessed CSV data (48 files, 2017-2020)
