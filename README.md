@@ -1,6 +1,6 @@
 # SA-GInterNet
 # ST-CGSAN: Spatio-Temporal Cross-Graph Spatial Attention Network
-
+[![DOI](https://zenodo.org/badge/1286980455.svg)](https://doi.org/10.5281/zenodo.21132133)
 ## Overview
 
 ST-CGSAN is a novel spatio-temporal graph neural network designed for atmospheric CO₂ concentration prediction. The model integrates two key branches:
