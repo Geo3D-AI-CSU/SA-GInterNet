@@ -1,6 +1,7 @@
 # SA-GInterNet
-[![DOI](https://zenodo.org/badge/1286980455.svg)](https://doi.org/10.5281/zenodo.21132133)
-# ST-CGSAN: Spatio-Temporal Cross-Graph Spatial Attention Network
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21132134.svg)](https://doi.org/10.5281/zenodo.21132134)
+Official Python implementation of SA-GInterNet 
+
 
 ## Overview
 
